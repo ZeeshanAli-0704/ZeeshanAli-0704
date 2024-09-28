@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanali-0704&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanali-0704" /> </p>
 
-- 🔭 I’m currently working on **Zia's World**
+- 🔭 I’m currently working on **Next js**
 
 - 🌱 I’m currently learning **System Design Architecture**
 
