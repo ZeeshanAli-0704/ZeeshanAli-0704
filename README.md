@@ -3,35 +3,35 @@
 <p align="center">Bengaluru, India | 10+ years building scalable frontend platforms</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FRONTEND-ARCHITECTURE-111111?style=for-the-badge&logo=vercel&logoColor=ff8a00&labelColor=000000&color=ff6a00" alt="Frontend architecture" />
-  <img src="https://img.shields.io/badge/SYSTEM-DESIGN-111111?style=for-the-badge&logo=buffer&logoColor=ff8a00&labelColor=000000&color=ff6a00" alt="System design" />
-  <img src="https://img.shields.io/badge/PERFORMANCE-FIRST-111111?style=for-the-badge&logo=lighthouse&logoColor=ff8a00&labelColor=000000&color=ff6a00" alt="Performance first" />
+  <img src="https://img.shields.io/badge/FRONTEND-ARCHITECTURE-0078D4?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=2F2F2F" alt="Frontend architecture" />
+  <img src="https://img.shields.io/badge/SYSTEM-DESIGN-0078D4?style=for-the-badge&logo=buffer&logoColor=ffffff&labelColor=2F2F2F" alt="System design" />
+  <img src="https://img.shields.io/badge/PERFORMANCE-FIRST-0078D4?style=for-the-badge&logo=lighthouse&logoColor=ffffff&labelColor=2F2F2F" alt="Performance first" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zeeshan-ali-mg">
-    <img src="https://img.shields.io/badge/LINKEDIN-FF6A00?style=for-the-badge&logo=linkedin&logoColor=000000" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0078D4?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="Connect on LinkedIn" />
   </a>
   <a href="https://dev.to/zeeshanali0704">
-    <img src="https://img.shields.io/badge/DEV.TO-FF6A00?style=for-the-badge&logo=devdotto&logoColor=000000" alt="Read my engineering articles" />
+    <img src="https://img.shields.io/badge/DEV.TO-0078D4?style=for-the-badge&logo=devdotto&logoColor=ffffff" alt="Read my engineering articles" />
   </a>
   <a href="https://leetcode.com/u/zeeshanali0704">
-    <img src="https://img.shields.io/badge/LEETCODE-FF6A00?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode profile" />
+    <img src="https://img.shields.io/badge/LEETCODE-0078D4?style=for-the-badge&logo=leetcode&logoColor=ffffff" alt="LeetCode profile" />
   </a>
   <a href="mailto:alizeeshan0704@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF6A00?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email Zeeshan" />
+    <img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email Zeeshan" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=24&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&width=980&lines=Building+Scalable+Frontend+Platforms;React+%7C+Next.js+%7C+TypeScript;Performance+%7C+Accessibility+%7C+AI-Assisted+Experiences" alt="Building scalable frontend platforms with React, Next.js, and TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Russo+One&size=24&duration=2200&pause=900&color=0078D4&center=true&vCenter=true&width=980&lines=Building+Scalable+Frontend+Platforms;React+%7C+Next.js+%7C+TypeScript;Performance+%7C+Accessibility+%7C+AI-Assisted+Experiences" alt="Building scalable frontend platforms with React, Next.js, and TypeScript" />
 </p>
 
 ---
 
 ### About Me
 
-I'm a **Senior Software Engineer at Microsoft**, working on **Microsoft Ads Creative Space (Ads Studio)** and AI-assisted creative experiences.
+I'm a **Senior Software Engineer at Microsoft**.
 
 With **10+ years of experience**, I design and build high-performance frontend platforms and data-intensive web applications. My work spans **AdTech, healthcare, banking, and media/broadcasting**, with a focus on making complex workflows fast, accessible, and intuitive.
 
@@ -42,25 +42,6 @@ With **10+ years of experience**, I design and build high-performance frontend p
 - **AI-assisted engineering:** Creative workflows, SDK development, MCP-powered component generation, and workflow automation.
 
 I write about frontend engineering, performance, and practical system design on [DEV Community](https://dev.to/zeeshanali0704).
-
-### What I'm Working On
-
-At **Microsoft**, I build scalable UI workflows for creative asset creation and management:
-
-- AI-assisted image generation, templates, and Brand Kits.
-- Creative preview, editing, and asset reuse experiences.
-- Google Drive and Dropbox integrations for image and video ingestion.
-- High-performance, accessible, and responsive experiences in collaboration with design and backend teams.
-
-### Career Highlights
-
-| Company | Role | Timeline | Focus & Impact |
-| --- | --- | --- | --- |
-| **Microsoft** | Senior Software Engineer | Feb 2026 - Present | Microsoft Ads Creative Space, AI-assisted creative experiences, frontend architecture, and accessibility. |
-| **Oracle** | Principal Applications Engineer | Jan 2024 - Jan 2026 | Reduced ECC dashboard load times by **77%**, configuration storage footprint by **80%**, and manual development effort by **60%** through a reusable Node.js SDK and MCP-powered component generation. Optimized rendering for **30,000+ records**. |
-| **athenahealth** | Senior Member of Technical Staff | Feb 2021 - Jan 2024 | Architected OneChart from scratch, built a reusable React component library, maintained **75%+ unit and integration test coverage**, and drove WCAG 2.1 accessibility improvements. |
-| **Amdocs** | Software Developer | Aug 2019 - Jan 2021 | Built responsive, mobile-first interfaces, implemented JWT-based authentication and security practices for financial workflows, and maintained **80%+ unit test coverage**. |
-| **Larsen & Toubro Infotech (LTI)** | Software Developer | Oct 2016 - Aug 2019 | Delivered **10+ core banking features** and **25+ reusable Angular components** for the ABSA ARO Teller System. Reduced UI defects by **30%** and mentored **6 engineers**. |
 
 ### Technical Toolkit
 
@@ -91,24 +72,15 @@ At **Microsoft**, I build scalable UI workflows for creative asset creation and 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Education
-
-**Bachelor of Engineering in Electronics and Communication**  
-Sinhgad Academy of Engineering, Pune University
-
 ### GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeshanali-0704&show_icons=true&rank_icon=github&hide_border=true&title_color=ff6a00&icon_color=ff6a00&text_color=f5f5f5&bg_color=0d0d0d" height="165" alt="Zeeshan's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanali-0704&layout=compact&hide_border=true&title_color=ff6a00&text_color=f5f5f5&bg_color=0d0d0d" height="165" alt="Most used languages on GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshanali-0704&show_icons=true&rank_icon=github&hide_border=true&title_color=0078d4&icon_color=0078d4&text_color=f5f5f5&bg_color=0d1117" height="165" alt="Zeeshan's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshanali-0704&layout=compact&hide_border=true&title_color=0078d4&text_color=f5f5f5&bg_color=0d1117" height="165" alt="Most used languages on GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zeeshanali-0704&hide_border=true&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideNums=f5f5f5&currStreakNum=f5f5f5&sideLabels=f5f5f5&dates=9ca3af&background=0D0D0D" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeeshanali-0704&label=Profile%20Views&color=ff6a00&style=for-the-badge" alt="Profile views" />
+  <img src="https://streak-stats.demolab.com?user=zeeshanali-0704&hide_border=true&ring=0078d4&fire=0078d4&currStreakLabel=0078d4&sideNums=f5f5f5&currStreakNum=f5f5f5&sideLabels=f5f5f5&dates=9ca3af&background=0D1117" alt="GitHub contribution streak" />
 </p>
 
 ---
