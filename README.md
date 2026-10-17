@@ -67,8 +67,6 @@ I write about frontend engineering, performance, and practical system design on 
 - [Portfolio](https://zeeshanali-0704.github.io/)
 - [Problem solving on LeetCode](https://leetcode.com/u/zeeshanali0704)
 
-### Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
